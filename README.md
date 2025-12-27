@@ -16,10 +16,10 @@ QrestaQR is a professional mobile application demonstrating modern React Native 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot/1.webp" width="210" alt="QrestaQR screenshot 1" />
-  <img src="screenshot/2.webp" width="210" alt="QrestaQR screenshot 2" />
-  <img src="screenshot/3.webp" width="210" alt="QrestaQR screenshot 3" />
-  <img src="screenshot/4.webp" width="210" alt="QrestaQR screenshot 4" />
+  <img src="screenshot/1.webp" width="180" alt="QrestaQR screenshot 1" />
+  <img src="screenshot/2.webp" width="180" alt="QrestaQR screenshot 2" />
+  <img src="screenshot/3.webp" width="180" alt="QrestaQR screenshot 3" />
+  <img src="screenshot/4.webp" width="180" alt="QrestaQR screenshot 4" />
 </p>
 
 ---
