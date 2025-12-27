@@ -11,6 +11,10 @@ QrestaQR is a professional mobile application demonstrating modern React Native 
 **Monetization:** Optional banner ads (Android) with intelligent online/offline detection  
 **Use Cases:** Consumer QR scanning, enterprise inventory management, event check-ins, URL shortening services
 
+## Google Play
+
+Download on Google Play: https://play.google.com/store/apps/details?id=com.qrestaqr
+
 ---
 
 ## Screenshots
