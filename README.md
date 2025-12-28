@@ -20,10 +20,10 @@ Download on Google Play: https://play.google.com/store/apps/details?id=com.qrest
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot/1.webp" width="180" alt="QrestaQR screenshot 1" />
-  <img src="screenshot/2.webp" width="180" alt="QrestaQR screenshot 2" />
-  <img src="screenshot/3.webp" width="180" alt="QrestaQR screenshot 3" />
-  <img src="screenshot/4.webp" width="180" alt="QrestaQR screenshot 4" />
+  <img src="screenshot/1.webp" width="150" alt="QrestaQR screenshot 1" />
+  <img src="screenshot/2.webp" width="150" alt="QrestaQR screenshot 2" />
+  <img src="screenshot/3.webp" width="150" alt="QrestaQR screenshot 3" />
+  <img src="screenshot/4.webp" width="150" alt="QrestaQR screenshot 4" />
 </p>
 
 ---
